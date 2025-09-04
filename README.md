@@ -6,7 +6,7 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del horario PIB4 del curso 
 ![](https://github.com/mollyvera-lgtm/PIB4-Newtons/blob/main/imagenes/grupo.jpg) 
 ## **:bowtie:INTEGRANTES DEL EQUIPO**
 ### 1) Joaquin Eduardo Salinas Rojas
-![](https://github.com/mollyvera-lgtm/PIB4-Newtons/blob/main/imagenes/71185734.jpg)
+
 #### **Edad**: 17 años 
 #### **Pasatiempo:**
 Escuchar música, jugar videojuegos y cocinar
