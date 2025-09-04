@@ -28,3 +28,7 @@ Leer y escuchar música.
 #### **Rol en el equipo:**
 - Investigador: Buscará y recopilara información que favorecera el proyecto.
 - Monitor evaluador: Analiza las ideas y propuestas de forma crítica, asegura que sean sólidas y que esten bien planteadas. Se apoya con el finalizador.
+
+
+## **:smile:GRACIAS POR VISITAR NUESTRO REPOSITORIO**
+Esperamos que haya sido una grata experiencia!!! -Newtons
