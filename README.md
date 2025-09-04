@@ -13,7 +13,7 @@ Escuchar música, jugar videojuegos y cocinar
 Coordinador: Lidera y organiza al equipo, asegurando que todos trabajen juntos hacia las metas. 
 Comunicador: Asegura que la información fluye entre los miembros, promoviendo la claridad y la escucha activa.
 ### 2) Molly Allison Vera Roman
-
+![](https://github.com/mollyvera-lgtm/PIB4-Newtons/blob/main/imagenes/Molly.jpg)
 #### **Edad**: 21 años
 #### **Pasatiempo**: 
 Escuchar música, ver series y películas.
