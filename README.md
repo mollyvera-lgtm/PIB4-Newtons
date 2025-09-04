@@ -6,9 +6,12 @@ Somos estudiantes de Ingenieria Biomedica PUCP-UPCH, del horario PIB4 del curso 
 ![](https://github.com/mollyvera-lgtm/PIB4-Newtons/blob/main/imagenes/grupo.jpg) 
 ## **:bowtie:INTEGRANTES DEL EQUIPO**
 ### 1) Joaquin Eduardo Salinas Rojas
-#### **Edad:** 
+#### **Edad**: 17 años 
 #### **Pasatiempo:**
+Escuchar música, jugar videojuegos y cocinar
 #### **Rol en el equipo:**
+Coordinador: Lidera y organiza al equipo, asegurando que todos trabajen juntos hacia las metas. 
+Comunicador: Asegura que la información fluye entre los miembros, promoviendo la claridad y la escucha activa.
 ### 2) Molly Allison Vera Roman
 
 #### **Edad**: 21 años
