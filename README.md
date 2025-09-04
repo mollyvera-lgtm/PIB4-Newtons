@@ -23,7 +23,7 @@ Escuchar música, ver series y películas.
 - Finalizadora: Se enfoca en el cumplimiento de objetivos y la revisión de los detalles de los trabajos correspondientes, se apoya en el monitor evaluador para delegar tareas.
 
 ### 3) Carla Lucia Ortiz Diaz
-https://github.com/mollyvera-lgtm/PIB4-Newtons/blob/main/imagenes/WhatsApp%20Image%202025-09-03%20at%209.10.25%20PM.jpeg
+![](https://github.com/mollyvera-lgtm/PIB4-Newtons/blob/main/imagenes/WhatsApp%20Image%202025-09-03%20at%209.10.25%20PM.jpeg)
 #### **Edad:** 21 años
 #### **Pasatiempo:** 
 Leer y escuchar música.
