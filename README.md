@@ -20,3 +20,11 @@ Escuchar música, ver series y películas.
 #### **Rol en el equipo:**
 - Implementadora: Transformará las ideas en planes prácticos, se encargará de organizar los planes para avanzar. 
 - Finalizadora: Se enfoca en el cumplimiento de objetivos y la revisión de los detalles de los trabajos correspondientes, se apoya en el monitor evaluador para delegar tareas.
+
+### 3) Carla Lucia Ortiz Diaz
+#### **Edad:** 21 años
+#### **Pasatiempo:** 
+Leer y escuchar música.
+#### **Rol en el equipo:**
+- Investigador: Buscará y recopilara información que favorecera el proyecto.
+- Monitor evaluador: Analiza las ideas y propuestas de forma crítica, asegura que sean sólidas y que esten bien planteadas. Se apoya con el finalizador.
