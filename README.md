@@ -31,6 +31,13 @@ Leer y escuchar música.
 - Investigador: Buscará y recopilara información que favorecera el proyecto.
 - Monitor evaluador: Analiza las ideas y propuestas de forma crítica, asegura que sean sólidas y que esten bien planteadas. Se apoya con el finalizador.
 
+### 4) Cristhian Jorge Luis Robles Quispe
+![](https://github.com/mollyvera-lgtm/PIB4-Newtons/blob/main/imagenes/IMG_1147.jpeg)
+#### **Edad:** 17 años
+#### **Pasatiempo:** 
+Leer, dibujar y pintar.
+#### **Rol en el equipo:**
+- Cerebro: Aporta ideas innovadoras y creativas, resolviendo problemas difíciles con imaginación.
 
 ## **:smile:GRACIAS POR VISITAR NUESTRO REPOSITORIO**
 Esperamos que haya sido una grata experiencia!!! -Newtons
